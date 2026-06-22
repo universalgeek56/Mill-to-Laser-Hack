@@ -1,6 +1,6 @@
 # Converting G-Code from Mill to Laser (FlatCAM → GRBL/Laser)
 
-![](.img/cover.jpg)
+![](img/cover.jpg)
 
 > **Tip:** For editing the code, it is best to use **Notepad++**. It instantly processes heavy G-code files and performs bulk search-and-replace via `Ctrl + H` without any glitches.
 
