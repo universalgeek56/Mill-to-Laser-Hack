@@ -1,4 +1,4 @@
-# 🛠️ CHEAT SHEET: Converting G-Code from Mill to Laser (FlatCAM → GRBL/Laser)
+# Converting G-Code from Mill to Laser (FlatCAM → GRBL/Laser)
 
 > **Tip:** For editing the code, it is best to use **Notepad++**. It instantly processes heavy G-code files and performs bulk search-and-replace via `Ctrl + H` without any glitches.
 
